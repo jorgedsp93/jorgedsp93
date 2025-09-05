@@ -108,7 +108,7 @@ I am Jorge. I build dependable automation that joins ERP, CRM, HR, dispatch, GPS
   <img src="https://cdn.simpleicons.org/googledrive/4285F4" height="44" alt="Drive">
   <img src="https://cdn.simpleicons.org/looker/4285F4" height="44" alt="Looker Studio">
   <!-- Reliable Power BI logo from Simple Icons repo -->
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/powerbi.svg" height="44" alt="Power BI">
+<img src="https://cdn.jsdelivr.net/npm/simple-icons/icons/powerbi.svg" height="44" alt="Power BI">
   <img src="https://cdn.simpleicons.org/android/3DDC84" height="44" alt="Android">
   <img src="https://cdn.simpleicons.org/kotlin/7F52FF" height="44" alt="Kotlin">
 </p>
