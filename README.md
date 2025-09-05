@@ -1,27 +1,32 @@
-# Hello 👋
+<!-- Top banner -->
+<p align="center">
+  <img src="assets/profile_banner.png" alt="PolarPath banner" width="100%">
+</p>
 
-I am Jorge. I build dependable automation that joins ERP, CRM, HR, dispatch, GPS, and finance into one flow. Founder at **PolarPath** and head of technology at MeadowBrook. I ship fast, keep it simple, and measure results.
+### I am working on
+<p align="center">
+  <img src="assets/working.png" alt="Automation project" width="420">
+  <img src="assets/coder.png" alt="Coding" width="420">
+</p>
 
-## $ whoami
-• Founder at PolarPath Technologies
-• Head of Technology at MeadowBrook Construction  
-• Based in Toronto Canada  
-• I turn messy data and manual work into calm systems
+### I am learning
+<p>
+  <img src="assets/flag_pt.png" alt="Portuguese" height="36">
+  <img src="assets/flag_es.png" alt="Spanish" height="36">
+</p>
 
-## wins
-• Fleet speeding over 130 km per hour down from 237 in July to 2 in September  
-• Timesheet and GPS audit in Google Sheets saves many hours each week and removes errors  
-• Safety talk reminders raise weekly completion across crews  
-• Deal to quote sync moves HubSpot into Acumatica with clean logs and fewer duplicates  
-• Address normalization gives accurate regions and reports across CRM and ERP
+### I have contributed to
+<p>
+  <img src="assets/apps_script.svg" alt="Apps Script" height="28">
+  <img src="assets/react.svg" alt="React" height="28">
+  <img src="assets/sql.svg" alt="SQL" height="28">
+  <img src="assets/hubspot.svg" alt="HubSpot" height="28">
+  <img src="assets/acumatica.svg" alt="Acumatica" height="28">
+</p>
 
-## stack
-Apps Script, Node, Python, SQL  
-Nextjs and React, Cloud Run and Cloud Functions, Cloud SQL  
-Looker Studio and Power BI  
-Acumatica, HubSpot, Zuper, FieldEdge, Linxup, Humi, Google Workspace
-
-## $ ping
-• Site: **polarpath.ca**  
-• Email: **jserrano at meadowb dot com**  
-• LinkedIn: **add your handle here**
+### I have written about
+<p>
+  <a href="https://polarpath.ca/post1"><img src="assets/blog_1.png" alt="Post title one" width="260"></a>
+  <a href="https://polarpath.ca/post2"><img src="assets/blog_2.png" alt="Post title two" width="260"></a>
+  <a href="https://polarpath.ca/post3"><img src="assets/blog_3.png" alt="Post title three" width="260"></a>
+</p>
