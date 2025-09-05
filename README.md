@@ -10,9 +10,9 @@ I am Jorge. I build dependable automation that joins ERP, CRM, HR, dispatch, GPS
 
 ## languages I speak
 <p>
-  <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1ea-1f1f8.png?v8" alt="Spanish flag" height="24"> Español&nbsp;&nbsp;
-  <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1ec-1f1e7.png?v8" alt="English flag" height="24"> English&nbsp;&nbsp;
-  <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1eb-1f1f7.png?v8" alt="French flag" height="24"> Français
+  <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1ea-1f1f8.png?v8" alt="Spanish flag" height="24"> &nbsp;&nbsp;
+  <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1ec-1f1e7.png?v8" alt="English flag" height="24"> &nbsp;&nbsp;
+  <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1eb-1f1f7.png?v8" alt="French flag" height="24"> 
 </p>
 
 ## wins
