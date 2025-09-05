@@ -10,9 +10,11 @@ I am Jorge. I build dependable automation that joins ERP, CRM, HR, dispatch, GPS
 
 ## languages I speak
 <p>
-  <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1ea-1f1f8.png?v8" alt="Spanish flag" height="24"> &nbsp;&nbsp;
-  <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1ec-1f1e7.png?v8" alt="English flag" height="24"> &nbsp;&nbsp;
-  <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1eb-1f1f7.png?v8" alt="French flag" height="24"> 
+  <span style="font-size:22px">🇪🇸 </span>
+  &nbsp;&nbsp;&nbsp;
+  <span style="font-size:22px">🇬🇧 </span>
+  &nbsp;&nbsp;&nbsp;
+  <span style="font-size:22px">🇫🇷 </span>
 </p>
 
 ## wins
@@ -22,8 +24,14 @@ I am Jorge. I build dependable automation that joins ERP, CRM, HR, dispatch, GPS
 • Deal to quote sync moves HubSpot into Acumatica with clean logs and fewer duplicates  
 • Address normalization gives accurate regions and reports across CRM and ERP
 
-## stack
-Apps Script, Node, Python, SQL  
-Nextjs and React, Cloud Run and Cloud Functions, Cloud SQL  
-Looker Studio and Power BI  
-Acumatica, HubSpot, Zuper, FieldEdge, Linxup, Humi, Google Workspace
+## featured work
+• FieldEdge plus Linxup audit  
+  Clock events matched with GPS trips, clear exceptions, email summaries  
+• Recruiting digest and reminders  
+  Weekly digests with action buttons, follow ups, and audit trail  
+• Safety toolbox sender  
+  One grouped email per crew with correct CC rules and tracking  
+• Deal to quote service  
+  HubSpot to Acumatica handoff with validation and clean logging
+
+## architecture I ship
