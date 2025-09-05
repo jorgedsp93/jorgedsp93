@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://github.com/jorgedsp93.png" alt="Jorge avatar" width="140"><br/>
-</p>
-
 # Hello 👋
 
 I am Jorge. I build dependable automation that joins ERP, CRM, HR, dispatch, GPS, and finance into one flow. Founder at **PolarPath** and head of technology at MeadowBrook. I ship fast, keep it simple, and measure results.
