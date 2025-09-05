@@ -3,7 +3,6 @@
 I am Jorge. I build dependable automation that joins ERP, CRM, HR, dispatch, GPS, and finance into one flow. Founder at **PolarPath** and head of technology at MeadowBrook. I ship fast, keep it simple, and measure results.
 
 ## $ whoami
-• Canadian and Venezuelan 🇨🇦 🇻🇪
 • Founder at PolarPath  
 • Head of Technology at MeadowBrook Construction  
 • Based in Toronto Canada  
