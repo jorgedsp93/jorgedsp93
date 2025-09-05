@@ -27,8 +27,3 @@ Apps Script, Node, Python, SQL
 Nextjs and React, Cloud Run and Cloud Functions, Cloud SQL  
 Looker Studio and Power BI  
 Acumatica, HubSpot, Zuper, FieldEdge, Linxup, Humi, Google Workspace
-
-## $ ping
-• Site: **polarpath.ca**  
-• Email: **jserrano at meadowb dot com**  
-• LinkedIn: **add your handle here**
