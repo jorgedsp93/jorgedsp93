@@ -9,26 +9,20 @@ I am Jorge. I build dependable automation that joins ERP, CRM, HR, dispatch, GPS
 • I turn messy data and manual work into calm systems
 
 ## languages I speak
-<div align="center">
+<p align="center">
+  <span>
+    <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1ea-1f1f8.png?v8" height="84" alt="Spain flag"><br><b>Español</b>
+  </span>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <span>
+    <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1ec-1f1e7.png?v8" height="84" alt="United Kingdom flag"><br><b>English</b>
+  </span>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <span>
+    <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1eb-1f1f7.png?v8" height="84" alt="France flag"><br><b>Français</b>
+  </span>
+</p>
 
-<table>
-  <tr>
-    <td align="center" width="180">
-      <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1ea-1f1f8.png?v8" height="84" alt="Spain flag"><br/>
-      <b>Español</b>
-    </td>
-    <td align="center" width="180">
-      <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1ec-1f1e7.png?v8" height="84" alt="United Kingdom flag"><br/>
-      <b>English</b>
-    </td>
-    <td align="center" width="180">
-      <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1eb-1f1f7.png?v8" height="84" alt="France flag"><br/>
-      <b>Français</b>
-    </td>
-  </tr>
-</table>
-
-</div>
 
 
 ## wins
@@ -38,40 +32,51 @@ I am Jorge. I build dependable automation that joins ERP, CRM, HR, dispatch, GPS
 • <img src="https://cdn.simpleicons.org/hubspot/FF7A59" height="20" alt=""> Deal to quote sync moves HubSpot into Acumatica with clean logs and fewer duplicates  
 • <img src="https://cdn.simpleicons.org/database/6E6E6E" height="20" alt=""> Address normalization gives accurate regions and reliable reporting across CRM and ERP
 
-### featured work
-
-<div align="left">
-
-📡 <a href="#"> <strong>FieldEdge plus Linxup audit</strong></a><br>
-Clock events matched with GPS trips. Clear exceptions. Single email summary.
-
-<br><br>
-
-🛠️ <a href="#"> <strong>Acumatica service cost tools</strong></a><br>
-Material and labor controls with simple reporting for service work.
-
-<br><br>
-
-📬 <a href="#"> <strong>Health and safety reminders</strong></a><br>
-Weekly digests and follow ups with action buttons and an audit trail.
-
-<br><br>
-
-⛽ <a href="#"> <strong>Weekly idling summary</strong></a><br>
-Fleet idling overview with scheduled mailouts.
-
-<br><br>
-
-🎓 <a href="#"> <strong>Training expiry notifier</strong></a><br>
-Emails grouped by department with color coded summaries.
-
-<br><br>
-
-🔐 <a href="#"> <strong>Humi partners API</strong></a><br>
-Gateway for safe access to employee data in external apps.
-
-</div>
-
+## featured work
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/jorgedsp93/Fieldedge-linxup-clock-audit">
+        <img src="https://cdn.simpleicons.org/googlemaps/4285F4" height="20" alt=""> <b>FieldEdge plus Linxup audit</b>
+      </a>
+      <br/>Clock events matched with GPS trips, clear exceptions, single email summary.
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/jorgedsp93/SO_Material-Labour">
+        <img src="https://cdn.simpleicons.org/microsoftazure/0078D4" height="20" alt=""> <b>Acumatica service cost tools</b>
+      </a>
+      <br/>Material and labor controls with simple reporting for service work.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/jorgedsp93/H-S_Reminder">
+        <img src="https://cdn.simpleicons.org/gmail/EA4335" height="20" alt=""> <b>Health and safety reminders</b>
+      </a>
+      <br/>Weekly digests and follow ups with action buttons and audit trail.
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/jorgedsp93/training-expiry-notifier">
+        <img src="https://cdn.simpleicons.org/googlecalendar/4285F4" height="20" alt=""> <b>Training expiry notifier</b>
+      </a>
+      <br/>Emails grouped by department with color coded summaries.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/jorgedsp93/Weekly-Idling-Summary">
+        <img src="https://cdn.simpleicons.org/speedtest/1A73E8" height="20" alt=""> <b>Weekly idling summary</b>
+      </a>
+      <br/>Fleet idling overview with scheduled mailouts.
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/jorgedsp93/Humi-HR/partners-api">
+        <img src="https://cdn.simpleicons.org/postman/FF6C37" height="20" alt=""> <b>Humi partners API</b>
+      </a>
+      <br/>Gateway for safe access to employee data in external apps.
+    </td>
+  </tr>
+</table>
 
 ## stack
 <p align="center">
