@@ -13,22 +13,27 @@ I am Jorge. I build dependable automation that joins ERP, CRM, HR, dispatch, GPS
 • I turn messy data and manual work into calm systems
 
 ## languages I speak
+<div align="center">
+
 <table>
   <tr>
-    <td align="center">
-      <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1ea-1f1f8.png?v8" alt="Spain flag" height="84"><br/>
+    <td align="center" width="180">
+      <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1ea-1f1f8.png?v8" height="84" alt="Spain flag"><br/>
       <b>Español</b>
     </td>
-    <td align="center">
-      <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1ec-1f1e7.png?v8" alt="United Kingdom flag" height="84"><br/>
+    <td align="center" width="180">
+      <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1ec-1f1e7.png?v8" height="84" alt="United Kingdom flag"><br/>
       <b>English</b>
     </td>
-    <td align="center">
-      <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1eb-1f1f7.png?v8" alt="France flag" height="84"><br/>
+    <td align="center" width="180">
+      <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1eb-1f1f7.png?v8" height="84" alt="France flag"><br/>
       <b>Français</b>
     </td>
   </tr>
 </table>
+
+</div>
+
 
 ## wins
 • <img src="https://cdn.simpleicons.org/googleanalytics/2E7D32" height="20" alt=""> Fleet speeding over 130 km per hour down from 237 in July to 44 in September  
@@ -84,25 +89,26 @@ I am Jorge. I build dependable automation that joins ERP, CRM, HR, dispatch, GPS
 </table>
 
 ## stack
-<p>
-  <img src="https://cdn.simpleicons.org/googleappsscript/4285F4" height="40" alt="Apps Script">
-  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="40" alt="JavaScript">
-  <img src="https://cdn.simpleicons.org/typescript/3178C6" height="40" alt="TypeScript">
-  <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="40" alt="Node">
-  <img src="https://cdn.simpleicons.org/python/3776AB" height="40" alt="Python">
-  <img src="https://cdn.simpleicons.org/postgresql/4169E1" height="40" alt="PostgreSQL">
-  <img src="https://cdn.simpleicons.org/react/61DAFB" height="40" alt="React">
-  <img src="https://cdn.simpleicons.org/nextdotjs/000000" height="40" alt="Next.js">
-  <img src="https://cdn.simpleicons.org/firebase/FFCA28" height="40" alt="Firebase">
-  <img src="https://cdn.simpleicons.org/googlecloud/4285F4" height="40" alt="Google Cloud">
-  <img src="https://cdn.simpleicons.org/docker/2496ED" height="40" alt="Docker">
-  <img src="https://cdn.simpleicons.org/githubactions/2088FF" height="40" alt="GitHub Actions">
-  <img src="https://cdn.simpleicons.org/googlesheets/34A853" height="40" alt="Sheets">
-  <img src="https://cdn.simpleicons.org/googledocs/4285F4" height="40" alt="Docs">
-  <img src="https://cdn.simpleicons.org/googlecalendar/4285F4" height="40" alt="Calendar">
-  <img src="https://cdn.simpleicons.org/googledrive/4285F4" height="40" alt="Drive">
-  <img src="https://cdn.simpleicons.org/looker/4285F4" height="40" alt="Looker Studio">
-  <img src="https://cdn.simpleicons.org/powerbi/F2C811" height="40" alt="Power BI">
-  <img src="https://cdn.simpleicons.org/android/3DDC84" height="40" alt="Android">
-  <img src="https://cdn.simpleicons.org/kotlin/7F52FF" height="40" alt="Kotlin">
+<p align="center">
+  <img src="https://cdn.simpleicons.org/googleappsscript/4285F4" height="44" alt="Apps Script">
+  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="44" alt="JavaScript">
+  <img src="https://cdn.simpleicons.org/typescript/3178C6" height="44" alt="TypeScript">
+  <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="44" alt="Node">
+  <img src="https://cdn.simpleicons.org/python/3776AB" height="44" alt="Python">
+  <img src="https://cdn.simpleicons.org/postgresql/4169E1" height="44" alt="PostgreSQL">
+  <img src="https://cdn.simpleicons.org/react/61DAFB" height="44" alt="React">
+  <img src="https://cdn.simpleicons.org/nextdotjs/000000" height="44" alt="Next.js">
+  <img src="https://cdn.simpleicons.org/firebase/FFCA28" height="44" alt="Firebase">
+  <img src="https://cdn.simpleicons.org/googlecloud/4285F4" height="44" alt="Google Cloud">
+  <img src="https://cdn.simpleicons.org/docker/2496ED" height="44" alt="Docker">
+  <img src="https://cdn.simpleicons.org/githubactions/2088FF" height="44" alt="GitHub Actions">
+  <img src="https://cdn.simpleicons.org/googlesheets/34A853" height="44" alt="Sheets">
+  <img src="https://cdn.simpleicons.org/googledocs/4285F4" height="44" alt="Docs">
+  <img src="https://cdn.simpleicons.org/googlecalendar/4285F4" height="44" alt="Calendar">
+  <img src="https://cdn.simpleicons.org/googledrive/4285F4" height="44" alt="Drive">
+  <img src="https://cdn.simpleicons.org/looker/4285F4" height="44" alt="Looker Studio">
+  <!-- Reliable Power BI logo from Simple Icons repo -->
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/powerbi.svg" height="44" alt="Power BI">
+  <img src="https://cdn.simpleicons.org/android/3DDC84" height="44" alt="Android">
+  <img src="https://cdn.simpleicons.org/kotlin/7F52FF" height="44" alt="Kotlin">
 </p>
