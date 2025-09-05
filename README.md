@@ -97,7 +97,7 @@ I am Jorge. I build dependable automation that joins ERP, CRM, HR, dispatch, GPS
   <img src="https://cdn.simpleicons.org/python/3776AB" height="44" alt="Python">
   <img src="https://cdn.simpleicons.org/postgresql/4169E1" height="44" alt="PostgreSQL">
   <img src="https://cdn.simpleicons.org/react/61DAFB" height="44" alt="React">
-  <img src="https://cdn.simpleicons.org/nextdotjs/000000" height="44" alt="Next.js">
+<img src="https://cdn.simpleicons.org/nextdotjs/FFFFFF" height="44" alt="Next.js">
   <img src="https://cdn.simpleicons.org/firebase/FFCA28" height="44" alt="Firebase">
   <img src="https://cdn.simpleicons.org/googlecloud/4285F4" height="44" alt="Google Cloud">
   <img src="https://cdn.simpleicons.org/docker/2496ED" height="44" alt="Docker">
@@ -108,7 +108,7 @@ I am Jorge. I build dependable automation that joins ERP, CRM, HR, dispatch, GPS
   <img src="https://cdn.simpleicons.org/googledrive/4285F4" height="44" alt="Drive">
   <img src="https://cdn.simpleicons.org/looker/4285F4" height="44" alt="Looker Studio">
   <!-- Reliable Power BI logo from Simple Icons repo -->
-<img src="https://cdn.jsdelivr.net/npm/simple-icons/icons/powerbi.svg" height="44" alt="Power BI">
+<img src="https://cdn.simpleicons.org/powerbi/F2C811" height="44" alt="Power BI">
   <img src="https://cdn.simpleicons.org/android/3DDC84" height="44" alt="Android">
   <img src="https://cdn.simpleicons.org/kotlin/7F52FF" height="44" alt="Kotlin">
 </p>
