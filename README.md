@@ -17,15 +17,6 @@ I am Jorge. I build dependable automation that joins ERP, CRM, HR, dispatch, GPS
   <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1eb-1f1f7.png?v8" height="80" alt="France flag">
 </p>
 
-
-
-## wins
-• <img src="https://cdn.simpleicons.org/googleanalytics/2E7D32" height="20" alt=""> Fleet speeding over 130 km per hour down from 237 in July to 2 in September  
-• <img src="https://cdn.simpleicons.org/googlesheets/34A853" height="20" alt=""> Timesheet and GPS audit in Google Sheets removes errors saving over $600k a year.
-• <img src="https://cdn.simpleicons.org/gmail/EA4335" height="20" alt=""> Safety talk full automation stack weekly completion across crews and removing the need of human involvement in the process 
-• <img src="https://cdn.simpleicons.org/hubspot/FF7A59" height="20" alt=""> Deal to quote sync moves HubSpot into Acumatica with clean logs and fewer duplicates  
-• <img src="https://cdn.simpleicons.org/database/6E6E6E" height="20" alt=""> Address normalization gives accurate regions and reliable reporting across CRM and ERP
-
 ## featured work
 
 <table style="border:none;border-collapse:collapse;width:100%">
