@@ -156,11 +156,12 @@ I am Jorge. I build dependable automation that joins ERP, CRM, HR, dispatch, GPS
 <p align="center">
   <img src="https://cdn.simpleicons.org/postman" height="40" alt="Postman" style="margin:0 8px;vertical-align:middle">
   <img src="https://cdn.simpleicons.org/cypress" height="40" alt="Cypress" style="margin:0 8px;vertical-align:middle">
-  <!-- Official Playwright logo from Wikimedia -->
-  <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Playwright%20Logo.svg" height="40" alt="Playwright" style="margin:0 8px;vertical-align:middle">
+  <!-- Playwright: direct Wikimedia upload (works on GitHub README) -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/75/Playwright_Logo.svg" height="40" alt="Playwright" style="margin:0 8px;vertical-align:middle">
   <img src="https://cdn.simpleicons.org/jest" height="40" alt="Jest" style="margin:0 8px;vertical-align:middle">
   <img src="https://cdn.simpleicons.org/openapiinitiative" height="40" alt="OpenAPI" style="margin:0 8px;vertical-align:middle">
 </p>
+
 
 
 <h4 align="center">Delivery & Edge</h4>
