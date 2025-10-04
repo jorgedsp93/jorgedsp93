@@ -169,7 +169,6 @@ I am Jorge. I build dependable automation that joins ERP, CRM, HR, dispatch, GPS
            alt="Playwright"
            style="max-height:30px;max-width:140px;display:block;margin:0 auto;vertical-align:middle">
     </td>
-
     <td align="center" valign="middle" width="120" height="60">
       <img src="https://cdn.simpleicons.org/jest" alt="Jest" height="40" style="vertical-align:middle">
     </td>
