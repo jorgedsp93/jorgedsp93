@@ -56,45 +56,47 @@ I am Jorge. I build dependable automation that joins ERP, CRM, HR, dispatch, GPS
 ## stack
 <p align="center">
   <!-- Core scripting + languages -->
-  <img src="https://cdn.simpleicons.org/googleappsscript/4285F4" height="44" alt="Apps Script">
-  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="44" alt="JavaScript">
-  <img src="https://cdn.simpleicons.org/typescript/3178C6" height="44" alt="TypeScript">
-  <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="44" alt="Node.js">
-  <img src="https://cdn.simpleicons.org/python/3776AB" height="44" alt="Python">
-  <img src="https://cdn.simpleicons.org/csharp/239120" height="44" alt="C#">
+  <img src="https://cdn.simpleicons.org/googleappsscript" height="44" alt="Apps Script">
+  <img src="https://cdn.simpleicons.org/javascript" height="44" alt="JavaScript">
+  <img src="https://cdn.simpleicons.org/typescript" height="44" alt="TypeScript">
+  <img src="https://cdn.simpleicons.org/nodedotjs" height="44" alt="Node.js">
+  <img src="https://cdn.simpleicons.org/python" height="44" alt="Python">
+  <img src="https://cdn.simpleicons.org/csharp" height="44" alt="C#">
 
   <!-- Database + backend -->
-  <img src="https://cdn.simpleicons.org/postgresql/4169E1" height="44" alt="PostgreSQL">
-  <img src="https://cdn.simpleicons.org/firebase/FFCA28" height="44" alt="Firebase">
-  <img src="https://cdn.simpleicons.org/googlecloud/4285F4" height="44" alt="Google Cloud">
-  <img src="https://cdn.simpleicons.org/docker/2496ED" height="44" alt="Docker">
+  <img src="https://cdn.simpleicons.org/postgresql" height="44" alt="PostgreSQL">
+  <img src="https://cdn.simpleicons.org/firebase" height="44" alt="Firebase">
+  <img src="https://cdn.simpleicons.org/googlecloud" height="44" alt="Google Cloud">
+  <img src="https://cdn.simpleicons.org/docker" height="44" alt="Docker">
 
   <!-- Frontend -->
-  <img src="https://cdn.simpleicons.org/react/61DAFB" height="44" alt="React">
+  <img src="https://cdn.simpleicons.org/react" height="44" alt="React">
   <img src="https://cdn.simpleicons.org/nextdotjs/FFFFFF" height="44" alt="Next.js">
 
   <!-- Automation + CI -->
-  <img src="https://cdn.simpleicons.org/githubactions/2088FF" height="44" alt="GitHub Actions">
-  <img src="https://cdn.simpleicons.org/zapier/FF4A00" height="44" alt="Zapier">
+  <img src="https://cdn.simpleicons.org/githubactions" height="44" alt="GitHub Actions">
+  <img src="https://cdn.simpleicons.org/zapier" height="44" alt="Zapier">
 
   <!-- Google Workspace -->
-  <img src="https://cdn.simpleicons.org/googlesheets/34A853" height="44" alt="Sheets">
-  <img src="https://cdn.simpleicons.org/googledocs/4285F4" height="44" alt="Docs">
-  <img src="https://cdn.simpleicons.org/googlecalendar/4285F4" height="44" alt="Calendar">
-  <img src="https://cdn.simpleicons.org/googledrive/4285F4" height="44" alt="Drive">
+  <img src="https://cdn.simpleicons.org/googlesheets" height="44" alt="Google Sheets">
+  <img src="https://cdn.simpleicons.org/googledocs" height="44" alt="Google Docs">
+  <img src="https://cdn.simpleicons.org/googlecalendar" height="44" alt="Google Calendar">
+  <img src="https://cdn.simpleicons.org/googledrive" height="44" alt="Google Drive">
 
   <!-- BI / Reporting -->
-  <img src="https://cdn.simpleicons.org/looker/4285F4" height="44" alt="Looker Studio">
-  <img src="https://cdn.jsdelivr.net/gh/microsoft/PowerBI-Icons/PNG/Power-BI.png" height="44" alt="Power BI">
-  <img src="https://cdn.simpleicons.org/microsoftexcel/217346" height="44" alt="Excel">
+  <img src="https://cdn.simpleicons.org/looker" height="44" alt="Looker Studio">
+  <img src="https://cdn.simpleicons.org/powerbi" height="44" alt="Power BI">
+  <img src="https://cdn.simpleicons.org/microsoftexcel" height="44" alt="Excel">
 
   <!-- Mobile -->
-  <img src="https://cdn.simpleicons.org/android/3DDC84" height="44" alt="Android">
-  <img src="https://cdn.simpleicons.org/kotlin/7F52FF" height="44" alt="Kotlin">
+  <img src="https://cdn.simpleicons.org/android" height="44" alt="Android">
+  <img src="https://cdn.simpleicons.org/kotlin" height="44" alt="Kotlin">
+</p>
 
-  <!-- ERP / HR / GPS (custom hosted logos needed) -->
-  <img src="assets/acumatica.png" height="44" alt="Acumatica ERP">
-  <img src="assets/humi.png" height="44" alt="Humi HR">
-  <img src="assets/fieldedge.png" height="44" alt="FieldEdge">
-  <img src="assets/linxup.png" height="44" alt="Linxup GPS">
+<!-- Platforms I integrate (badges so they always render) -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Acumatica-ERP-2F80ED?style=flat" height="22" alt="Acumatica ERP">
+  <img src="https://img.shields.io/badge/Humi-HR-0A66C2?style=flat" height="22" alt="Humi HR">
+  <img src="https://img.shields.io/badge/FieldEdge-Dispatch-1B6F3C?style=flat" height="22" alt="FieldEdge">
+  <img src="https://img.shields.io/badge/Linxup-GPS-0F6FFF?style=flat" height="22" alt="Linxup GPS">
 </p>
