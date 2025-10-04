@@ -163,8 +163,6 @@ I am Jorge. I build dependable automation that joins ERP, CRM, HR, dispatch, GPS
     <td align="center" valign="middle" width="120" height="60">
       <img src="https://cdn.simpleicons.org/cypress" alt="Cypress" height="40" style="vertical-align:middle">
     </td>
-
-    <!-- Playwright: readable wordmark on a white chip, capped width/height -->
     <td align="center" valign="middle" width="160" height="60"
         style="background:#fff;border-radius:8px;">
       <img src="https://upload.wikimedia.org/wikipedia/commons/7/75/Playwright_Logo.svg"
