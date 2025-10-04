@@ -54,54 +54,62 @@ I am Jorge. I build dependable automation that joins ERP, CRM, HR, dispatch, GPS
 
 
 ## stack
+
+### Core languages & runtimes
 <p align="center">
-  <!-- Languages / runtimes -->
-  <img src="https://cdn.simpleicons.org/googleappsscript" height="44" alt="Apps Script" style="margin:0 8px;vertical-align:middle" loading="lazy">
-  <img src="https://cdn.simpleicons.org/javascript" height="44" alt="JavaScript" style="margin:0 8px;vertical-align:middle" loading="lazy">
-  <img src="https://cdn.simpleicons.org/typescript" height="44" alt="TypeScript" style="margin:0 8px;vertical-align:middle" loading="lazy">
-  <img src="https://cdn.simpleicons.org/nodedotjs" height="44" alt="Node.js" style="margin:0 8px;vertical-align:middle" loading="lazy">
-  <img src="https://cdn.simpleicons.org/python" height="44" alt="Python" style="margin:0 8px;vertical-align:middle" loading="lazy">
-  <img src="https://cdn.simpleicons.org/csharp" height="44" alt="C#" style="margin:0 8px;vertical-align:middle" loading="lazy">
-
-  <!-- Data / infra -->
-  <img src="https://cdn.simpleicons.org/postgresql" height="44" alt="PostgreSQL" style="margin:0 8px;vertical-align:middle" loading="lazy">
-  <img src="https://cdn.simpleicons.org/firebase" height="44" alt="Firebase" style="margin:0 8px;vertical-align:middle" loading="lazy">
-  <img src="https://cdn.simpleicons.org/googlecloud" height="44" alt="Google Cloud" style="margin:0 8px;vertical-align:middle" loading="lazy">
-  <img src="https://cdn.simpleicons.org/docker" height="44" alt="Docker" style="margin:0 8px;vertical-align:middle" loading="lazy">
-
-  <!-- Web -->
-  <img src="https://cdn.simpleicons.org/react" height="44" alt="React" style="margin:0 8px;vertical-align:middle" loading="lazy">
-  <!-- White Next.js mark on dark -->
-  <img src="https://cdn.simpleicons.org/nextdotjs/FFFFFF" height="44" alt="Next.js"
-       style="margin:0 8px;vertical-align:middle;background:#000;border-radius:8px;padding:4px" loading="lazy">
-
-  <!-- Automation / CI -->
-  <img src="https://cdn.simpleicons.org/githubactions" height="44" alt="GitHub Actions" style="margin:0 8px;vertical-align:middle" loading="lazy">
-  <img src="https://cdn.simpleicons.org/zapier" height="44" alt="Zapier" style="margin:0 8px;vertical-align:middle" loading="lazy">
-
-  <!-- Google Workspace -->
-  <img src="https://cdn.simpleicons.org/googlesheets" height="44" alt="Google Sheets" style="margin:0 8px;vertical-align:middle" loading="lazy">
-  <img src="https://cdn.simpleicons.org/googledocs" height="44" alt="Google Docs" style="margin:0 8px;vertical-align:middle" loading="lazy">
-  <img src="https://cdn.simpleicons.org/googlecalendar" height="44" alt="Google Calendar" style="margin:0 8px;vertical-align:middle" loading="lazy">
-  <img src="https://cdn.simpleicons.org/googledrive" height="44" alt="Google Drive" style="margin:0 8px;vertical-align:middle" loading="lazy">
-
-  <!-- BI -->
-  <img src="https://cdn.simpleicons.org/looker" height="44" alt="Looker Studio" style="margin:0 8px;vertical-align:middle" loading="lazy">
-  <img src="https://cdn.simpleicons.org/powerbi" height="44" alt="Power BI" style="margin:0 8px;vertical-align:middle" loading="lazy">
-  <img src="https://cdn.simpleicons.org/microsoftexcel" height="44" alt="Excel" style="margin:0 8px;vertical-align:middle" loading="lazy">
-
-  <!-- Mobile -->
-  <img src="https://cdn.simpleicons.org/android" height="44" alt="Android" style="margin:0 8px;vertical-align:middle" loading="lazy">
-  <img src="https://cdn.simpleicons.org/kotlin" height="44" alt="Kotlin" style="margin:0 8px;vertical-align:middle" loading="lazy">
-
-  <!-- Platforms (direct image sources) -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Acumatica_2016_Corporate_Logo.svg"
-       height="44" alt="Acumatica ERP" style="margin:0 8px;vertical-align:middle" loading="lazy">
-  <img src="https://logo.clearbit.com/humi.ca"
-       height="44" alt="Humi HR" style="margin:0 8px;vertical-align:middle;border-radius:6px;background:#fff;padding:4px" loading="lazy">
-  <img src="https://logo.clearbit.com/fieldedge.com"
-       height="44" alt="FieldEdge" style="margin:0 8px;vertical-align:middle;border-radius:6px;background:#fff;padding:4px" loading="lazy">
-  <img src="https://logo.clearbit.com/linxup.com"
-       height="44" alt="Linxup GPS" style="margin:0 8px;vertical-align:middle;border-radius:6px;background:#fff;padding:4px" loading="lazy">
+  <img src="https://cdn.simpleicons.org/googleappsscript" height="44" alt="Apps Script" style="margin:0 8px;vertical-align:middle">
+  <img src="https://cdn.simpleicons.org/javascript" height="44" alt="JavaScript" style="margin:0 8px;vertical-align:middle">
+  <img src="https://cdn.simpleicons.org/typescript" height="44" alt="TypeScript" style="margin:0 8px;vertical-align:middle">
+  <img src="https://cdn.simpleicons.org/nodedotjs" height="44" alt="Node.js" style="margin:0 8px;vertical-align:middle">
+  <img src="https://cdn.simpleicons.org/python" height="44" alt="Python" style="margin:0 8px;vertical-align:middle">
+  <img src="https://cdn.simpleicons.org/csharp" height="44" alt="C#" style="margin:0 8px;vertical-align:middle">
 </p>
+
+### Web & mobile
+<p align="center">
+  <img src="https://cdn.simpleicons.org/react" height="44" alt="React" style="margin:0 8px;vertical-align:middle">
+  <!-- White logo so it stays visible on dark themes -->
+  <img src="https://cdn.simpleicons.org/nextdotjs/FFFFFF" height="44" alt="Next.js" style="margin:0 8px;vertical-align:middle;background:#000;border-radius:8px;padding:4px">
+  <img src="https://cdn.simpleicons.org/android" height="44" alt="Android" style="margin:0 8px;vertical-align:middle">
+  <img src="https://cdn.simpleicons.org/kotlin" height="44" alt="Kotlin" style="margin:0 8px;vertical-align:middle">
+</p>
+
+### Data & cloud
+<p align="center">
+  <img src="https://cdn.simpleicons.org/postgresql" height="44" alt="PostgreSQL" style="margin:0 8px;vertical-align:middle">
+  <img src="https://cdn.simpleicons.org/firebase" height="44" alt="Firebase" style="margin:0 8px;vertical-align:middle">
+  <img src="https://cdn.simpleicons.org/googlecloud" height="44" alt="Google Cloud" style="margin:0 8px;vertical-align:middle">
+  <img src="https://cdn.simpleicons.org/docker" height="44" alt="Docker" style="margin:0 8px;vertical-align:middle">
+</p>
+
+### Automation & CI
+<p align="center">
+  <img src="https://cdn.simpleicons.org/githubactions" height="44" alt="GitHub Actions" style="margin:0 8px;vertical-align:middle">
+  <img src="https://cdn.simpleicons.org/zapier" height="44" alt="Zapier" style="margin:0 8px;vertical-align:middle">
+</p>
+
+### Google Workspace
+<p align="center">
+  <img src="https://cdn.simpleicons.org/googlesheets" height="44" alt="Google Sheets" style="margin:0 8px;vertical-align:middle">
+  <img src="https://cdn.simpleicons.org/googledocs" height="44" alt="Google Docs" style="margin:0 8px;vertical-align:middle">
+  <img src="https://cdn.simpleicons.org/googlecalendar" height="44" alt="Google Calendar" style="margin:0 8px;vertical-align:middle">
+  <img src="https://cdn.simpleicons.org/googledrive" height="44" alt="Google Drive" style="margin:0 8px;vertical-align:middle">
+</p>
+
+### Analytics & BI
+<p align="center">
+  <img src="https://cdn.simpleicons.org/looker" height="44" alt="Looker Studio" style="margin:0 8px;vertical-align:middle">
+  <!-- Wikimedia direct file links so they always render -->
+  <img src="https://commons.wikimedia.org/wiki/Special:FilePath/New_Power_BI_Logo.svg" height="44" alt="Power BI" style="margin:0 8px;vertical-align:middle">
+  <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Microsoft_Office_Excel_(2019%E2%80%93present).svg" height="44" alt="Excel" style="margin:0 8px;vertical-align:middle">
+</p>
+
+### ERP / HR / Dispatch / GPS
+<p align="center">
+  <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Acumatica_2016_Corporate_Logo.svg" height="44" alt="Acumatica ERP" style="margin:0 8px;vertical-align:middle">
+  <img src="https://logo.clearbit.com/humi.ca" height="44" alt="Humi HR" style="margin:0 8px;vertical-align:middle;border-radius:6px;background:#fff;padding:4px">
+  <img src="https://logo.clearbit.com/fieldedge.com" height="44" alt="FieldEdge" style="margin:0 8px;vertical-align:middle;border-radius:6px;background:#fff;padding:4px">
+  <img src="https://logo.clearbit.com/linxup.com" height="44" alt="Linxup GPS" style="margin:0 8px;vertical-align:middle;border-radius:6px;background:#fff;padding:4px">
+</p>
+
 
