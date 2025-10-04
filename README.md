@@ -92,10 +92,9 @@ I am Jorge. I build dependable automation that joins ERP, CRM, HR, dispatch, GPS
   <img src="https://cdn.simpleicons.org/android/3DDC84" height="44" alt="Android">
   <img src="https://cdn.simpleicons.org/kotlin/7F52FF" height="44" alt="Kotlin">
 
-  <!-- ERP / HR / Service (custom logos needed) -->
+  <!-- ERP / HR / GPS (custom hosted logos needed) -->
   <img src="assets/acumatica.png" height="44" alt="Acumatica ERP">
   <img src="assets/humi.png" height="44" alt="Humi HR">
-  <img src="assets/zuper.png" height="44" alt="Zuper">
   <img src="assets/fieldedge.png" height="44" alt="FieldEdge">
   <img src="assets/linxup.png" height="44" alt="Linxup GPS">
 </p>
