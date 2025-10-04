@@ -144,20 +144,24 @@ I am Jorge. I build dependable automation that joins ERP, CRM, HR, dispatch, GPS
 
 <h4 align="center">Data Eng & Messaging</h4>
 <p align="center">
-  <img src="https://cdn.simpleicons.org/redis" height="40" alt="Redis" style="margin:0 8px;vertical-align:middle">
-  <img src="https://cdn.simpleicons.org/apachekafka" height="40" alt="Apache Kafka" style="margin:0 8px;vertical-align:middle">
+  <img src="https://cdn.simpleicons.org/redis/DA291C" height="40" alt="Redis" style="margin:0 8px;vertical-align:middle">
+  <!-- Force white so it’s visible on dark backgrounds -->
+  <img src="https://cdn.simpleicons.org/apachekafka/FFFFFF" height="40" alt="Apache Kafka" style="margin:0 8px;vertical-align:middle">
   <img src="https://cdn.simpleicons.org/apacheairflow" height="40" alt="Apache Airflow" style="margin:0 8px;vertical-align:middle">
   <img src="https://cdn.simpleicons.org/dbt" height="40" alt="dbt" style="margin:0 8px;vertical-align:middle">
 </p>
+
 
 <h4 align="center">QA & API</h4>
 <p align="center">
   <img src="https://cdn.simpleicons.org/postman" height="40" alt="Postman" style="margin:0 8px;vertical-align:middle">
   <img src="https://cdn.simpleicons.org/cypress" height="40" alt="Cypress" style="margin:0 8px;vertical-align:middle">
-  <img src="https://cdn.simpleicons.org/playwright" height="40" alt="Playwright" style="margin:0 8px;vertical-align:middle">
+  <!-- Official Playwright logo from Wikimedia -->
+  <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Playwright%20Logo.svg" height="40" alt="Playwright" style="margin:0 8px;vertical-align:middle">
   <img src="https://cdn.simpleicons.org/jest" height="40" alt="Jest" style="margin:0 8px;vertical-align:middle">
   <img src="https://cdn.simpleicons.org/openapiinitiative" height="40" alt="OpenAPI" style="margin:0 8px;vertical-align:middle">
 </p>
+
 
 <h4 align="center">Delivery & Edge</h4>
 <p align="center">
