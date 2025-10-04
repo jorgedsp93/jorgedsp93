@@ -53,9 +53,9 @@ I am Jorge. I build dependable automation that joins ERP, CRM, HR, dispatch, GPS
 </table>
 
 
-## stack
+<h2 align="center">stack</h2>
 
-### Core languages & runtimes
+<h3 align="center">Core languages & runtimes</h3>
 <p align="center">
   <img src="https://cdn.simpleicons.org/googleappsscript" height="44" alt="Apps Script" style="margin:0 8px;vertical-align:middle">
   <img src="https://cdn.simpleicons.org/javascript" height="44" alt="JavaScript" style="margin:0 8px;vertical-align:middle">
@@ -65,16 +65,16 @@ I am Jorge. I build dependable automation that joins ERP, CRM, HR, dispatch, GPS
   <img src="https://cdn.simpleicons.org/csharp" height="44" alt="C#" style="margin:0 8px;vertical-align:middle">
 </p>
 
-### Web & mobile
+<h3 align="center">Web & mobile</h3>
 <p align="center">
   <img src="https://cdn.simpleicons.org/react" height="44" alt="React" style="margin:0 8px;vertical-align:middle">
-  <!-- White logo so it stays visible on dark themes -->
+  <!-- White logo so it’s visible on dark themes -->
   <img src="https://cdn.simpleicons.org/nextdotjs/FFFFFF" height="44" alt="Next.js" style="margin:0 8px;vertical-align:middle;background:#000;border-radius:8px;padding:4px">
   <img src="https://cdn.simpleicons.org/android" height="44" alt="Android" style="margin:0 8px;vertical-align:middle">
   <img src="https://cdn.simpleicons.org/kotlin" height="44" alt="Kotlin" style="margin:0 8px;vertical-align:middle">
 </p>
 
-### Data & cloud
+<h3 align="center">Data & cloud</h3>
 <p align="center">
   <img src="https://cdn.simpleicons.org/postgresql" height="44" alt="PostgreSQL" style="margin:0 8px;vertical-align:middle">
   <img src="https://cdn.simpleicons.org/firebase" height="44" alt="Firebase" style="margin:0 8px;vertical-align:middle">
@@ -82,13 +82,14 @@ I am Jorge. I build dependable automation that joins ERP, CRM, HR, dispatch, GPS
   <img src="https://cdn.simpleicons.org/docker" height="44" alt="Docker" style="margin:0 8px;vertical-align:middle">
 </p>
 
-### Automation & CI
+<h3 align="center">Automation & CI</h3>
 <p align="center">
   <img src="https://cdn.simpleicons.org/githubactions" height="44" alt="GitHub Actions" style="margin:0 8px;vertical-align:middle">
   <img src="https://cdn.simpleicons.org/zapier" height="44" alt="Zapier" style="margin:0 8px;vertical-align:middle">
+  <img src="https://cdn.simpleicons.org/n8n" height="44" alt="n8n" style="margin:0 8px;vertical-align:middle">
 </p>
 
-### Google Workspace
+<h3 align="center">Google Workspace</h3>
 <p align="center">
   <img src="https://cdn.simpleicons.org/googlesheets" height="44" alt="Google Sheets" style="margin:0 8px;vertical-align:middle">
   <img src="https://cdn.simpleicons.org/googledocs" height="44" alt="Google Docs" style="margin:0 8px;vertical-align:middle">
@@ -96,20 +97,81 @@ I am Jorge. I build dependable automation that joins ERP, CRM, HR, dispatch, GPS
   <img src="https://cdn.simpleicons.org/googledrive" height="44" alt="Google Drive" style="margin:0 8px;vertical-align:middle">
 </p>
 
-### Analytics & BI
+<h3 align="center">Analytics & BI</h3>
 <p align="center">
   <img src="https://cdn.simpleicons.org/looker" height="44" alt="Looker Studio" style="margin:0 8px;vertical-align:middle">
-  <!-- Wikimedia direct file links so they always render -->
-  <img src="https://commons.wikimedia.org/wiki/Special:FilePath/New_Power_BI_Logo.svg" height="44" alt="Power BI" style="margin:0 8px;vertical-align:middle">
-  <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Microsoft_Office_Excel_(2019%E2%80%93present).svg" height="44" alt="Excel" style="margin:0 8px;vertical-align:middle">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" height="44" alt="Power BI" style="margin:0 8px;vertical-align:middle">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg" height="44" alt="Excel" style="margin:0 8px;vertical-align:middle">
 </p>
 
-### ERP / HR / Dispatch / GPS
+<h3 align="center">ERP / HR / Dispatch / GPS</h3>
 <p align="center">
-  <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Acumatica_2016_Corporate_Logo.svg" height="44" alt="Acumatica ERP" style="margin:0 8px;vertical-align:middle">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Acumatica_2016_Corporate_Logo.svg" height="44" alt="Acumatica ERP" style="margin:0 8px;vertical-align:middle">
   <img src="https://logo.clearbit.com/humi.ca" height="44" alt="Humi HR" style="margin:0 8px;vertical-align:middle;border-radius:6px;background:#fff;padding:4px">
   <img src="https://logo.clearbit.com/fieldedge.com" height="44" alt="FieldEdge" style="margin:0 8px;vertical-align:middle;border-radius:6px;background:#fff;padding:4px">
   <img src="https://logo.clearbit.com/linxup.com" height="44" alt="Linxup GPS" style="margin:0 8px;vertical-align:middle;border-radius:6px;background:#fff;padding:4px">
 </p>
+
+<!-- ——————————————————————————————————————————— -->
+<!-- CTO Toolkit: common systems a modern CTO oversees -->
+<!-- (Optional exposure — not claiming daily use) -->
+<h3 align="center">CTO toolkit (recommended exposure)</h3>
+
+<h4 align="center">IaC & Orchestration</h4>
+<p align="center">
+  <img src="https://cdn.simpleicons.org/terraform" height="40" alt="Terraform" style="margin:0 8px;vertical-align:middle">
+  <img src="https://cdn.simpleicons.org/kubernetes" height="40" alt="Kubernetes" style="margin:0 8px;vertical-align:middle">
+  <img src="https://cdn.simpleicons.org/helm" height="40" alt="Helm" style="margin:0 8px;vertical-align:middle">
+  <img src="https://cdn.simpleicons.org/ansible" height="40" alt="Ansible" style="margin:0 8px;vertical-align:middle">
+</p>
+
+<h4 align="center">Observability</h4>
+<p align="center">
+  <img src="https://cdn.simpleicons.org/grafana" height="40" alt="Grafana" style="margin:0 8px;vertical-align:middle">
+  <img src="https://cdn.simpleicons.org/prometheus" height="40" alt="Prometheus" style="margin:0 8px;vertical-align:middle">
+  <img src="https://cdn.simpleicons.org/opentelemetry" height="40" alt="OpenTelemetry" style="margin:0 8px;vertical-align:middle">
+  <img src="https://cdn.simpleicons.org/sentry" height="40" alt="Sentry" style="margin:0 8px;vertical-align:middle">
+  <img src="https://cdn.simpleicons.org/datadog" height="40" alt="Datadog" style="margin:0 8px;vertical-align:middle">
+</p>
+
+<h4 align="center">Security & Identity</h4>
+<p align="center">
+  <img src="https://cdn.simpleicons.org/vault" height="40" alt="HashiCorp Vault" style="margin:0 8px;vertical-align:middle">
+  <img src="https://cdn.simpleicons.org/okta" height="40" alt="Okta" style="margin:0 8px;vertical-align:middle">
+  <img src="https://cdn.simpleicons.org/auth0" height="40" alt="Auth0" style="margin:0 8px;vertical-align:middle">
+  <img src="https://cdn.simpleicons.org/letsencrypt" height="40" alt="Let's Encrypt" style="margin:0 8px;vertical-align:middle">
+</p>
+
+<h4 align="center">Data Eng & Messaging</h4>
+<p align="center">
+  <img src="https://cdn.simpleicons.org/redis" height="40" alt="Redis" style="margin:0 8px;vertical-align:middle">
+  <img src="https://cdn.simpleicons.org/apachekafka" height="40" alt="Apache Kafka" style="margin:0 8px;vertical-align:middle">
+  <img src="https://cdn.simpleicons.org/apacheairflow" height="40" alt="Apache Airflow" style="margin:0 8px;vertical-align:middle">
+  <img src="https://cdn.simpleicons.org/dbt" height="40" alt="dbt" style="margin:0 8px;vertical-align:middle">
+</p>
+
+<h4 align="center">QA & API</h4>
+<p align="center">
+  <img src="https://cdn.simpleicons.org/postman" height="40" alt="Postman" style="margin:0 8px;vertical-align:middle">
+  <img src="https://cdn.simpleicons.org/cypress" height="40" alt="Cypress" style="margin:0 8px;vertical-align:middle">
+  <img src="https://cdn.simpleicons.org/playwright" height="40" alt="Playwright" style="margin:0 8px;vertical-align:middle">
+  <img src="https://cdn.simpleicons.org/jest" height="40" alt="Jest" style="margin:0 8px;vertical-align:middle">
+  <img src="https://cdn.simpleicons.org/openapiinitiative" height="40" alt="OpenAPI" style="margin:0 8px;vertical-align:middle">
+</p>
+
+<h4 align="center">Delivery & Edge</h4>
+<p align="center">
+  <img src="https://cdn.simpleicons.org/cloudflare" height="40" alt="Cloudflare" style="margin:0 8px;vertical-align:middle">
+  <img src="https://cdn.simpleicons.org/nginx" height="40" alt="NGINX" style="margin:0 8px;vertical-align:middle">
+</p>
+
+<h4 align="center">Productivity & PM</h4>
+<p align="center">
+  <img src="https://cdn.simpleicons.org/git" height="40" alt="Git" style="margin:0 8px;vertical-align:middle">
+  <img src="https://cdn.simpleicons.org/jira" height="40" alt="Jira" style="margin:0 8px;vertical-align:middle">
+  <img src="https://cdn.simpleicons.org/notion" height="40" alt="Notion" style="margin:0 8px;vertical-align:middle">
+  <img src="https://cdn.simpleicons.org/linear" height="40" alt="Linear" style="margin:0 8px;vertical-align:middle">
+</p>
+
 
 
